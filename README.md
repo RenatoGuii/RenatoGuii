@@ -12,7 +12,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width = "40px" height = "40px" align = "center"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width = "40px" height = "40px" align = "center"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width = "40px" height = "40px" align = "center"/>
-<img src="https://www.pngwing.com/en/free-png-azbzv" width = "40px" height = "40px" align = "center"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width = "40px" height = "40px" align = "center"/>
 </div>
 
 ---
