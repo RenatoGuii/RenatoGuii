@@ -2,10 +2,9 @@
 
 # 👾 Bem vindo ao meu GitHub 👾 
 
-♦ Dedicado a aprender tudo e mais um pouco de desenvolvimento web
+♦ Dedicado a aprender tudo e mais um pouco sobre programação
 
 - Cursando Análise e Desenvolvimento de Sistemas
-- Aprendendo algo sobre frontend
 
 ㅤ
 <div>ㅤ
@@ -16,6 +15,7 @@
 <img src="https://logospng.org/download/bootstrap/bootstrap-256.png" width = "40px" height = "40px" align = "center"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-sass-3521691-2945135.png" width = "40px" height = "40px" align = "center"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/git-225996.png?f=webp&w=256" width = "40px" height = "40px" align = "center"/>
+<img src="https://iconscout.com/free-icon/java-59" width = "40px" height = "40px" align = "center"/>
 </div>
 
 ---
