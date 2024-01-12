@@ -15,7 +15,8 @@
 <img src="https://logospng.org/download/bootstrap/bootstrap-256.png" width = "40px" height = "40px" align = "center"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-sass-3521691-2945135.png" width = "40px" height = "40px" align = "center"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/git-225996.png?f=webp&w=256" width = "40px" height = "40px" align = "center"/>
-<img src="https://iconscout.com/free-icon/java-59" width = "40px" height = "40px" align = "center"/>
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width = "40px" height = "40px" align = "center"/>
+
 </div>
 
 ---
