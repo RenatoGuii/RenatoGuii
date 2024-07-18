@@ -13,7 +13,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width = "40px" height = "40px" align = "center"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width = "40px" height = "40px" align = "center"/>
 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width = "40px" height = "40px" align = "center"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width = "40px" height = "40px" align = "center"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width = "40px" height = "40px" align = "center"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/git-225996.png?f=webp&w=256" width = "40px" height = "40px" align = "center"/>
 
 </div>
