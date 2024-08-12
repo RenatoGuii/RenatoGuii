@@ -8,14 +8,14 @@
 
 ㅤ
 <div>ㅤ
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width = "40px" height = "40px" align = "center"/>
+<img src="https://miro.medium.com/v2/resize:fit:256/1*i9qQBPdQXR-If4xMfWhXPg.png" width = "40px" height = "40px" align = "center"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width = "40px" height = "40px" align = "center"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/git-225996.png?f=webp&w=256" width = "40px" height = "40px" align = "center"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width = "40px" height = "40px" align = "center"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width = "40px" height = "40px" align = "center"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width = "40px" height = "40px" align = "center"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width = "40px" height = "40px" align = "center"/>
-<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width = "40px" height = "40px" align = "center"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width = "40px" height = "40px" align = "center"/>
-<img src="https://cdn.iconscout.com/icon/free/png-256/git-225996.png?f=webp&w=256" width = "40px" height = "40px" align = "center"/>
-
 </div>
 
 ---
