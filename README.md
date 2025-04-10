@@ -1,5 +1,5 @@
 
-<h2 align="left">Olá 👋! Meu nome é Renato, e esse é meu repositório</h2>
+<h2 align="center">Olá 👋! Meu nome é Renato, e esse é meu repositório</h2>
 
 ###
 
@@ -10,11 +10,13 @@
 
 ###
 
-<img align="right" height="150" src="banner.gif"  />
+
 
 ###
 
-<div align="left">
+<h3 align="center">Minha Stack</h3>
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
@@ -35,17 +37,15 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href = "https://www.linkedin.com/in/renato-guimaraes-quirino/">
     <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/renatoguii/renatoguii/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/renatoguii/renatoguii/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
